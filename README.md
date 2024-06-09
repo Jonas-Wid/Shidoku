@@ -8,7 +8,9 @@ Die Spielregeln sind:
   1. In jeder Reihe müssen die Zahlen 1-4 genau ein Mal vorkommen.
   2. in jeder Spalte müssen die Zahlen 1-4 genau ein Mal vorkommen.
   3. in jedem fett umrandeten 2x2 müssen die Zahlen 1-4 genau ein Mal vorkommen.
+
 Dabei wird eine numerische Suche nach potentiellen 3-Tipp Sudokus gestartet. Es werden dabei die Reduktionsmethoden
  1. Einschränkung auf Äquivalenzklassen
  2. Tippeinschränkung durch unvermeidbare Mengen
+
 benutzt. Dies führt dann zu demErgebnis, dass kein 3-Tipp Shidoku existiert.
