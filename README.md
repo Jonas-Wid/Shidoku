@@ -13,4 +13,4 @@ Dabei wird eine numerische Suche nach potentiellen 3-Tipp Sudokus gestartet. Es 
  1. Einschränkung auf Äquivalenzklassen
  2. Tippeinschränkung durch unvermeidbare Mengen
 
-benutzt. Dies führt dann zu demErgebnis, dass kein 3-Tipp Shidoku existiert.
+benutzt. Dies führt dann zu dem Ergebnis, dass kein 3-Tipp Shidoku existiert.
